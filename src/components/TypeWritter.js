@@ -77,7 +77,7 @@ const TypeWritter = () => {
   return (
     <>
       <Title>
-        Discaver a new area fo cool
+        Discover a new area for cool
         <Typewriter
           options={{
             autoStart: true,
